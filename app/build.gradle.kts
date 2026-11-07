@@ -15,11 +15,11 @@ android {
     compileSdk = 37
 
     defaultConfig {
-        applicationId = "com.kododake.aabrowser"
+        applicationId = "com.alzatube.browser"
         minSdk = 35
         targetSdk = 37
-        versionCode = 10
-        versionName = "3.3"
+        versionCode = 1
+        versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
